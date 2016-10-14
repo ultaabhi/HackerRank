@@ -1,6 +1,6 @@
 
 
-Insert a Node at the Tail of a Linked List
+Java Program Insert a Node at the Tail of a Linked List
 
 
 /*
@@ -11,6 +11,7 @@ Insert a Node at the Tail of a Linked List
      int data;
      Node next;
   }
+  
 */
 Node Insert(Node head,int data) {
 // This is a "method-only" submission. 
